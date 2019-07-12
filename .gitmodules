@@ -1,0 +1,6 @@
+[submodule "project/vue-admin"]
+	path = project/vue-admin
+	url = git@github.com:wuxianqiang/vue-admin.git
+[submodule "project/meituan"]
+	path = project/meituan
+	url = git@github.com:wuxianqiang/meituan.git
